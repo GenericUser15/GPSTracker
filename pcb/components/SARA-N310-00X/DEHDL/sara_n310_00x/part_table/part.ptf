@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SARA_N310_00X'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "u-blox", "SARA-N310-00X" (!) = "", "SARAN31000X", "Other", "377-SARA-N310-00X", "https://www.mouser.co.uk/ProductDetail/u-blox/SARA-N310-00X?qs=KUoIvG%2F9IlbUjCHEHTky9Q%3D%3D", "Cellular Modules NB-IoT multiband global module Cat NB1, Band 3, 5, 8, 20, 28 LGA, 16x26 mm, 250 pcs/reel", "https://content.u-blox.com/sites/default/files/SARA-N3_DataSheet_UBX-18066692.pdf", "2.65 mm"
+END_PART
+
+END.

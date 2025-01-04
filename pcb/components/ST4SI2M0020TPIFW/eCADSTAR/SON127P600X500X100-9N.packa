@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "ST4SI2M0020TPIFW"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-28-16:24:42)
+    (mountForm default
+        (footprintRef "SON127P600X500X100-9N")
+        (spec "System")
+    )
+)

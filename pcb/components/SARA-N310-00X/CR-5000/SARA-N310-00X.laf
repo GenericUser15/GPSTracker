@@ -1,0 +1,1368 @@
+LIB SARA-N310-00X
+ZONE 1 2 1 50.000 50.000 0.000 0.000 0 A 1
+GRID 1 1 1 1 1 1 1 4
+SHT 1 1 1 0 96 28 98
+PROP 0 componentType 1
+parts
+ENDPROP
+PROP 0 componentKind 1
+101
+ENDPROP
+PROP 0 partName 1
+SARA-N310-00X
+ENDPROP
+VIEW 1 1 0 -1 -1 25 6 0 1.000 3 reference
+VIEW 1 1 0 -1 -1 25 4 0 1.000 3 partName
+ENDSHT
+LINE 1 -1 -1 -1 0 0 0
+POINT - 4 2
+POINT - 24 2
+POINT - 24 -96
+POINT - 4 -96
+POINT - 4 2
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 0
+POINT - 4 0
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -2
+POINT - 4 -2
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -4
+POINT - 4 -4
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -6
+POINT - 4 -6
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -8
+POINT - 4 -8
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -10
+POINT - 4 -10
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -12
+POINT - 4 -12
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -14
+POINT - 4 -14
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -16
+POINT - 4 -16
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -18
+POINT - 4 -18
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -20
+POINT - 4 -20
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -22
+POINT - 4 -22
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -24
+POINT - 4 -24
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -26
+POINT - 4 -26
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -28
+POINT - 4 -28
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -30
+POINT - 4 -30
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -32
+POINT - 4 -32
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -34
+POINT - 4 -34
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -36
+POINT - 4 -36
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -38
+POINT - 4 -38
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -40
+POINT - 4 -40
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -42
+POINT - 4 -42
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -44
+POINT - 4 -44
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -46
+POINT - 4 -46
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -48
+POINT - 4 -48
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -50
+POINT - 4 -50
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -52
+POINT - 4 -52
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -54
+POINT - 4 -54
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -56
+POINT - 4 -56
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -58
+POINT - 4 -58
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -60
+POINT - 4 -60
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -62
+POINT - 4 -62
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -64
+POINT - 4 -64
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -66
+POINT - 4 -66
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -68
+POINT - 4 -68
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -70
+POINT - 4 -70
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -72
+POINT - 4 -72
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -74
+POINT - 4 -74
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -76
+POINT - 4 -76
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -78
+POINT - 4 -78
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -80
+POINT - 4 -80
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -82
+POINT - 4 -82
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -84
+POINT - 4 -84
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -86
+POINT - 4 -86
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -88
+POINT - 4 -88
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -90
+POINT - 4 -90
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -92
+POINT - 4 -92
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 0 -94
+POINT - 4 -94
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 0
+POINT - 24 0
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -2
+POINT - 24 -2
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -4
+POINT - 24 -4
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -6
+POINT - 24 -6
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -8
+POINT - 24 -8
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -10
+POINT - 24 -10
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -12
+POINT - 24 -12
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -14
+POINT - 24 -14
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -16
+POINT - 24 -16
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -18
+POINT - 24 -18
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -20
+POINT - 24 -20
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -22
+POINT - 24 -22
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -24
+POINT - 24 -24
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -26
+POINT - 24 -26
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -28
+POINT - 24 -28
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -30
+POINT - 24 -30
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -32
+POINT - 24 -32
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -34
+POINT - 24 -34
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -36
+POINT - 24 -36
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -38
+POINT - 24 -38
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -40
+POINT - 24 -40
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -42
+POINT - 24 -42
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -44
+POINT - 24 -44
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -46
+POINT - 24 -46
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -48
+POINT - 24 -48
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -50
+POINT - 24 -50
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -52
+POINT - 24 -52
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -54
+POINT - 24 -54
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -56
+POINT - 24 -56
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -58
+POINT - 24 -58
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -60
+POINT - 24 -60
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -62
+POINT - 24 -62
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -64
+POINT - 24 -64
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -66
+POINT - 24 -66
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -68
+POINT - 24 -68
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -70
+POINT - 24 -70
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -72
+POINT - 24 -72
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -74
+POINT - 24 -74
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -76
+POINT - 24 -76
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -78
+POINT - 24 -78
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -80
+POINT - 24 -80
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -82
+POINT - 24 -82
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -84
+POINT - 24 -84
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -86
+POINT - 24 -86
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -88
+POINT - 24 -88
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -90
+POINT - 24 -90
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -92
+POINT - 24 -92
+ENDLIN
+LINE 1 -1 -1 -1 -1 -1 -1
+POINT - 28 -94
+POINT - 24 -94
+ENDLIN
+PIN 1 1 0 0
+PROP 0 pinLabel 1
+GND_1
+ENDPROP
+PROP 0 pinNumber 1
+1
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 0.4 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 0 0 1.000 3 pinLabel
+ENDPIN
+PIN 2 1 0 -2
+PROP 0 pinLabel 1
+V_BCKP
+ENDPROP
+PROP 0 pinNumber 1
+2
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -1.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -2 0 1.000 3 pinLabel
+ENDPIN
+PIN 3 1 0 -4
+PROP 0 pinLabel 1
+GND_2
+ENDPROP
+PROP 0 pinNumber 1
+3
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -3.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -4 0 1.000 3 pinLabel
+ENDPIN
+PIN 4 1 0 -6
+PROP 0 pinLabel 1
+V_INT
+ENDPROP
+PROP 0 pinNumber 1
+4
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -5.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -6 0 1.000 3 pinLabel
+ENDPIN
+PIN 5 1 0 -8
+PROP 0 pinLabel 1
+GND_3
+ENDPROP
+PROP 0 pinNumber 1
+5
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -7.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -8 0 1.000 3 pinLabel
+ENDPIN
+PIN 6 1 0 -10
+PROP 0 pinLabel 1
+DSR
+ENDPROP
+PROP 0 pinNumber 1
+6
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -9.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -10 0 1.000 3 pinLabel
+ENDPIN
+PIN 7 1 0 -12
+PROP 0 pinLabel 1
+RI
+ENDPROP
+PROP 0 pinNumber 1
+7
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -11.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -12 0 1.000 3 pinLabel
+ENDPIN
+PIN 8 1 0 -14
+PROP 0 pinLabel 1
+DCD
+ENDPROP
+PROP 0 pinNumber 1
+8
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -13.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -14 0 1.000 3 pinLabel
+ENDPIN
+PIN 9 1 0 -16
+PROP 0 pinLabel 1
+DTR
+ENDPROP
+PROP 0 pinNumber 1
+9
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -15.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -16 0 1.000 3 pinLabel
+ENDPIN
+PIN 10 1 0 -18
+PROP 0 pinLabel 1
+RTS
+ENDPROP
+PROP 0 pinNumber 1
+10
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -17.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -18 0 1.000 3 pinLabel
+ENDPIN
+PIN 11 1 0 -20
+PROP 0 pinLabel 1
+CTS
+ENDPROP
+PROP 0 pinNumber 1
+11
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -19.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -20 0 1.000 3 pinLabel
+ENDPIN
+PIN 12 1 0 -22
+PROP 0 pinLabel 1
+TXD
+ENDPROP
+PROP 0 pinNumber 1
+12
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -21.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -22 0 1.000 3 pinLabel
+ENDPIN
+PIN 13 1 0 -24
+PROP 0 pinLabel 1
+RXD
+ENDPROP
+PROP 0 pinNumber 1
+13
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -23.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -24 0 1.000 3 pinLabel
+ENDPIN
+PIN 14 1 0 -26
+PROP 0 pinLabel 1
+GND_4
+ENDPROP
+PROP 0 pinNumber 1
+14
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -25.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -26 0 1.000 3 pinLabel
+ENDPIN
+PIN 15 1 0 -28
+PROP 0 pinLabel 1
+PWR_ON
+ENDPROP
+PROP 0 pinNumber 1
+15
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -27.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -28 0 1.000 3 pinLabel
+ENDPIN
+PIN 16 1 0 -30
+PROP 0 pinLabel 1
+GPIO1
+ENDPROP
+PROP 0 pinNumber 1
+16
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -29.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -30 0 1.000 3 pinLabel
+ENDPIN
+PIN 17 1 0 -32
+PROP 0 pinLabel 1
+TXD_AUX
+ENDPROP
+PROP 0 pinNumber 1
+17
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -31.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -32 0 1.000 3 pinLabel
+ENDPIN
+PIN 18 1 0 -34
+PROP 0 pinLabel 1
+RESET_N
+ENDPROP
+PROP 0 pinNumber 1
+18
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -33.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -34 0 1.000 3 pinLabel
+ENDPIN
+PIN 19 1 0 -36
+PROP 0 pinLabel 1
+RXD_AUX
+ENDPROP
+PROP 0 pinNumber 1
+19
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -35.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -36 0 1.000 3 pinLabel
+ENDPIN
+PIN 20 1 0 -38
+PROP 0 pinLabel 1
+GND_5
+ENDPROP
+PROP 0 pinNumber 1
+20
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -37.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -38 0 1.000 3 pinLabel
+ENDPIN
+PIN 21 1 0 -40
+PROP 0 pinLabel 1
+VSEL
+ENDPROP
+PROP 0 pinNumber 1
+21
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -39.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -40 0 1.000 3 pinLabel
+ENDPIN
+PIN 22 1 0 -42
+PROP 0 pinLabel 1
+GND_6
+ENDPROP
+PROP 0 pinNumber 1
+22
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -41.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -42 0 1.000 3 pinLabel
+ENDPIN
+PIN 23 1 0 -44
+PROP 0 pinLabel 1
+GPIO2
+ENDPROP
+PROP 0 pinNumber 1
+23
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -43.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -44 0 1.000 3 pinLabel
+ENDPIN
+PIN 24 1 0 -46
+PROP 0 pinLabel 1
+GPIO3
+ENDPROP
+PROP 0 pinNumber 1
+24
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -45.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -46 0 1.000 3 pinLabel
+ENDPIN
+PIN 25 1 0 -48
+PROP 0 pinLabel 1
+GPIO4
+ENDPROP
+PROP 0 pinNumber 1
+25
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -47.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -48 0 1.000 3 pinLabel
+ENDPIN
+PIN 26 1 0 -50
+PROP 0 pinLabel 1
+SDA
+ENDPROP
+PROP 0 pinNumber 1
+26
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -49.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -50 0 1.000 3 pinLabel
+ENDPIN
+PIN 27 1 0 -52
+PROP 0 pinLabel 1
+SCL
+ENDPROP
+PROP 0 pinNumber 1
+27
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -51.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -52 0 1.000 3 pinLabel
+ENDPIN
+PIN 28 1 0 -54
+PROP 0 pinLabel 1
+RXD_FT
+ENDPROP
+PROP 0 pinNumber 1
+28
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -53.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -54 0 1.000 3 pinLabel
+ENDPIN
+PIN 29 1 0 -56
+PROP 0 pinLabel 1
+TXD_FT
+ENDPROP
+PROP 0 pinNumber 1
+29
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -55.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -56 0 1.000 3 pinLabel
+ENDPIN
+PIN 30 1 0 -58
+PROP 0 pinLabel 1
+GND_7
+ENDPROP
+PROP 0 pinNumber 1
+30
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -57.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -58 0 1.000 3 pinLabel
+ENDPIN
+PIN 31 1 0 -60
+PROP 0 pinLabel 1
+RSVD_1
+ENDPROP
+PROP 0 pinNumber 1
+31
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -59.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -60 0 1.000 3 pinLabel
+ENDPIN
+PIN 32 1 0 -62
+PROP 0 pinLabel 1
+GND_8
+ENDPROP
+PROP 0 pinNumber 1
+32
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -61.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -62 0 1.000 3 pinLabel
+ENDPIN
+PIN 33 1 0 -64
+PROP 0 pinLabel 1
+ADC1
+ENDPROP
+PROP 0 pinNumber 1
+33
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -63.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -64 0 1.000 3 pinLabel
+ENDPIN
+PIN 34 1 0 -66
+PROP 0 pinLabel 1
+RSVD_2
+ENDPROP
+PROP 0 pinNumber 1
+34
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -65.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -66 0 1.000 3 pinLabel
+ENDPIN
+PIN 35 1 0 -68
+PROP 0 pinLabel 1
+RSVD_3
+ENDPROP
+PROP 0 pinNumber 1
+35
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -67.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -68 0 1.000 3 pinLabel
+ENDPIN
+PIN 36 1 0 -70
+PROP 0 pinLabel 1
+RSVD_4
+ENDPROP
+PROP 0 pinNumber 1
+36
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -69.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -70 0 1.000 3 pinLabel
+ENDPIN
+PIN 37 1 0 -72
+PROP 0 pinLabel 1
+RSVD_5
+ENDPROP
+PROP 0 pinNumber 1
+37
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -71.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -72 0 1.000 3 pinLabel
+ENDPIN
+PIN 38 1 0 -74
+PROP 0 pinLabel 1
+SIM_CLK
+ENDPROP
+PROP 0 pinNumber 1
+38
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -73.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -74 0 1.000 3 pinLabel
+ENDPIN
+PIN 39 1 0 -76
+PROP 0 pinLabel 1
+SIM_IO
+ENDPROP
+PROP 0 pinNumber 1
+39
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -75.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -76 0 1.000 3 pinLabel
+ENDPIN
+PIN 40 1 0 -78
+PROP 0 pinLabel 1
+SIM_RST
+ENDPROP
+PROP 0 pinNumber 1
+40
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -77.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -78 0 1.000 3 pinLabel
+ENDPIN
+PIN 41 1 0 -80
+PROP 0 pinLabel 1
+VSIM
+ENDPROP
+PROP 0 pinNumber 1
+41
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -79.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -80 0 1.000 3 pinLabel
+ENDPIN
+PIN 42 1 0 -82
+PROP 0 pinLabel 1
+GPIO5
+ENDPROP
+PROP 0 pinNumber 1
+42
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -81.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -82 0 1.000 3 pinLabel
+ENDPIN
+PIN 43 1 0 -84
+PROP 0 pinLabel 1
+GND_9
+ENDPROP
+PROP 0 pinNumber 1
+43
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -83.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -84 0 1.000 3 pinLabel
+ENDPIN
+PIN 44 1 0 -86
+PROP 0 pinLabel 1
+RSVD_6
+ENDPROP
+PROP 0 pinNumber 1
+44
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -85.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -86 0 1.000 3 pinLabel
+ENDPIN
+PIN 45 1 0 -88
+PROP 0 pinLabel 1
+RSVD_7
+ENDPROP
+PROP 0 pinNumber 1
+45
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -87.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -88 0 1.000 3 pinLabel
+ENDPIN
+PIN 46 1 0 -90
+PROP 0 pinLabel 1
+RSVD_8
+ENDPROP
+PROP 0 pinNumber 1
+46
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -89.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -90 0 1.000 3 pinLabel
+ENDPIN
+PIN 47 1 0 -92
+PROP 0 pinLabel 1
+RSVD_9
+ENDPROP
+PROP 0 pinNumber 1
+47
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -91.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -92 0 1.000 3 pinLabel
+ENDPIN
+PIN 48 1 0 -94
+PROP 0 pinLabel 1
+RSVD_10
+ENDPROP
+PROP 0 pinNumber 1
+48
+ENDPROP
+VIEW 1 1 0 -1 -1 2.8 -93.6 0 1.000 2 pinNumber
+VIEW 2 1 0 -1 -1 4.6 -94 0 1.000 3 pinLabel
+ENDPIN
+PIN 49 1 28 0
+PROP 0 pinLabel 1
+RSVD_11
+ENDPROP
+PROP 0 pinNumber 1
+49
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 0.4 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 0 0 1.000 5 pinLabel
+ENDPIN
+PIN 50 1 28 -2
+PROP 0 pinLabel 1
+GND_10
+ENDPROP
+PROP 0 pinNumber 1
+50
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -1.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -2 0 1.000 5 pinLabel
+ENDPIN
+PIN 51 1 28 -4
+PROP 0 pinLabel 1
+VCC_1
+ENDPROP
+PROP 0 pinNumber 1
+51
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -3.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -4 0 1.000 5 pinLabel
+ENDPIN
+PIN 52 1 28 -6
+PROP 0 pinLabel 1
+VCC_2
+ENDPROP
+PROP 0 pinNumber 1
+52
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -5.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -6 0 1.000 5 pinLabel
+ENDPIN
+PIN 53 1 28 -8
+PROP 0 pinLabel 1
+VCC_3
+ENDPROP
+PROP 0 pinNumber 1
+53
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -7.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -8 0 1.000 5 pinLabel
+ENDPIN
+PIN 54 1 28 -10
+PROP 0 pinLabel 1
+GND_11
+ENDPROP
+PROP 0 pinNumber 1
+54
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -9.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -10 0 1.000 5 pinLabel
+ENDPIN
+PIN 55 1 28 -12
+PROP 0 pinLabel 1
+GND_12
+ENDPROP
+PROP 0 pinNumber 1
+55
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -11.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -12 0 1.000 5 pinLabel
+ENDPIN
+PIN 56 1 28 -14
+PROP 0 pinLabel 1
+ANT
+ENDPROP
+PROP 0 pinNumber 1
+56
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -13.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -14 0 1.000 5 pinLabel
+ENDPIN
+PIN 57 1 28 -16
+PROP 0 pinLabel 1
+GND_13
+ENDPROP
+PROP 0 pinNumber 1
+57
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -15.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -16 0 1.000 5 pinLabel
+ENDPIN
+PIN 58 1 28 -18
+PROP 0 pinLabel 1
+GND_14
+ENDPROP
+PROP 0 pinNumber 1
+58
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -17.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -18 0 1.000 5 pinLabel
+ENDPIN
+PIN 59 1 28 -20
+PROP 0 pinLabel 1
+ANT_BT
+ENDPROP
+PROP 0 pinNumber 1
+59
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -19.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -20 0 1.000 5 pinLabel
+ENDPIN
+PIN 60 1 28 -22
+PROP 0 pinLabel 1
+GND_15
+ENDPROP
+PROP 0 pinNumber 1
+60
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -21.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -22 0 1.000 5 pinLabel
+ENDPIN
+PIN 61 1 28 -24
+PROP 0 pinLabel 1
+GND_16
+ENDPROP
+PROP 0 pinNumber 1
+61
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -23.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -24 0 1.000 5 pinLabel
+ENDPIN
+PIN 62 1 28 -26
+PROP 0 pinLabel 1
+ANT_DET
+ENDPROP
+PROP 0 pinNumber 1
+62
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -25.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -26 0 1.000 5 pinLabel
+ENDPIN
+PIN 63 1 28 -28
+PROP 0 pinLabel 1
+GND_17
+ENDPROP
+PROP 0 pinNumber 1
+63
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -27.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -28 0 1.000 5 pinLabel
+ENDPIN
+PIN 64 1 28 -30
+PROP 0 pinLabel 1
+GND_18
+ENDPROP
+PROP 0 pinNumber 1
+64
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -29.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -30 0 1.000 5 pinLabel
+ENDPIN
+PIN 65 1 28 -32
+PROP 0 pinLabel 1
+GND_19
+ENDPROP
+PROP 0 pinNumber 1
+65
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -31.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -32 0 1.000 5 pinLabel
+ENDPIN
+PIN 66 1 28 -34
+PROP 0 pinLabel 1
+GND_20
+ENDPROP
+PROP 0 pinNumber 1
+66
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -33.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -34 0 1.000 5 pinLabel
+ENDPIN
+PIN 67 1 28 -36
+PROP 0 pinLabel 1
+GND_21
+ENDPROP
+PROP 0 pinNumber 1
+67
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -35.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -36 0 1.000 5 pinLabel
+ENDPIN
+PIN 68 1 28 -38
+PROP 0 pinLabel 1
+GND_22
+ENDPROP
+PROP 0 pinNumber 1
+68
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -37.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -38 0 1.000 5 pinLabel
+ENDPIN
+PIN 69 1 28 -40
+PROP 0 pinLabel 1
+GND_23
+ENDPROP
+PROP 0 pinNumber 1
+69
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -39.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -40 0 1.000 5 pinLabel
+ENDPIN
+PIN 70 1 28 -42
+PROP 0 pinLabel 1
+GND_24
+ENDPROP
+PROP 0 pinNumber 1
+70
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -41.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -42 0 1.000 5 pinLabel
+ENDPIN
+PIN 71 1 28 -44
+PROP 0 pinLabel 1
+GND_25
+ENDPROP
+PROP 0 pinNumber 1
+71
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -43.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -44 0 1.000 5 pinLabel
+ENDPIN
+PIN 72 1 28 -46
+PROP 0 pinLabel 1
+GND_26
+ENDPROP
+PROP 0 pinNumber 1
+72
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -45.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -46 0 1.000 5 pinLabel
+ENDPIN
+PIN 73 1 28 -48
+PROP 0 pinLabel 1
+GND_27
+ENDPROP
+PROP 0 pinNumber 1
+73
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -47.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -48 0 1.000 5 pinLabel
+ENDPIN
+PIN 74 1 28 -50
+PROP 0 pinLabel 1
+GND_28
+ENDPROP
+PROP 0 pinNumber 1
+74
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -49.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -50 0 1.000 5 pinLabel
+ENDPIN
+PIN 75 1 28 -52
+PROP 0 pinLabel 1
+GND_29
+ENDPROP
+PROP 0 pinNumber 1
+75
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -51.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -52 0 1.000 5 pinLabel
+ENDPIN
+PIN 76 1 28 -54
+PROP 0 pinLabel 1
+GND_30
+ENDPROP
+PROP 0 pinNumber 1
+76
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -53.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -54 0 1.000 5 pinLabel
+ENDPIN
+PIN 77 1 28 -56
+PROP 0 pinLabel 1
+GND_31
+ENDPROP
+PROP 0 pinNumber 1
+77
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -55.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -56 0 1.000 5 pinLabel
+ENDPIN
+PIN 78 1 28 -58
+PROP 0 pinLabel 1
+GND_32
+ENDPROP
+PROP 0 pinNumber 1
+78
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -57.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -58 0 1.000 5 pinLabel
+ENDPIN
+PIN 79 1 28 -60
+PROP 0 pinLabel 1
+GND_33
+ENDPROP
+PROP 0 pinNumber 1
+79
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -59.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -60 0 1.000 5 pinLabel
+ENDPIN
+PIN 80 1 28 -62
+PROP 0 pinLabel 1
+GND_34
+ENDPROP
+PROP 0 pinNumber 1
+80
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -61.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -62 0 1.000 5 pinLabel
+ENDPIN
+PIN 81 1 28 -64
+PROP 0 pinLabel 1
+GND_35
+ENDPROP
+PROP 0 pinNumber 1
+81
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -63.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -64 0 1.000 5 pinLabel
+ENDPIN
+PIN 82 1 28 -66
+PROP 0 pinLabel 1
+GND_36
+ENDPROP
+PROP 0 pinNumber 1
+82
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -65.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -66 0 1.000 5 pinLabel
+ENDPIN
+PIN 83 1 28 -68
+PROP 0 pinLabel 1
+GND_37
+ENDPROP
+PROP 0 pinNumber 1
+83
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -67.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -68 0 1.000 5 pinLabel
+ENDPIN
+PIN 84 1 28 -70
+PROP 0 pinLabel 1
+GND_38
+ENDPROP
+PROP 0 pinNumber 1
+84
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -69.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -70 0 1.000 5 pinLabel
+ENDPIN
+PIN 85 1 28 -72
+PROP 0 pinLabel 1
+GND_39
+ENDPROP
+PROP 0 pinNumber 1
+85
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -71.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -72 0 1.000 5 pinLabel
+ENDPIN
+PIN 86 1 28 -74
+PROP 0 pinLabel 1
+GND_40
+ENDPROP
+PROP 0 pinNumber 1
+86
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -73.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -74 0 1.000 5 pinLabel
+ENDPIN
+PIN 87 1 28 -76
+PROP 0 pinLabel 1
+GND_41
+ENDPROP
+PROP 0 pinNumber 1
+87
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -75.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -76 0 1.000 5 pinLabel
+ENDPIN
+PIN 88 1 28 -78
+PROP 0 pinLabel 1
+GND_42
+ENDPROP
+PROP 0 pinNumber 1
+88
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -77.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -78 0 1.000 5 pinLabel
+ENDPIN
+PIN 89 1 28 -80
+PROP 0 pinLabel 1
+GND_43
+ENDPROP
+PROP 0 pinNumber 1
+89
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -79.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -80 0 1.000 5 pinLabel
+ENDPIN
+PIN 90 1 28 -82
+PROP 0 pinLabel 1
+GND_44
+ENDPROP
+PROP 0 pinNumber 1
+90
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -81.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -82 0 1.000 5 pinLabel
+ENDPIN
+PIN 91 1 28 -84
+PROP 0 pinLabel 1
+GND_45
+ENDPROP
+PROP 0 pinNumber 1
+91
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -83.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -84 0 1.000 5 pinLabel
+ENDPIN
+PIN 92 1 28 -86
+PROP 0 pinLabel 1
+GND_46
+ENDPROP
+PROP 0 pinNumber 1
+92
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -85.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -86 0 1.000 5 pinLabel
+ENDPIN
+PIN 93 1 28 -88
+PROP 0 pinLabel 1
+GND_47
+ENDPROP
+PROP 0 pinNumber 1
+93
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -87.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -88 0 1.000 5 pinLabel
+ENDPIN
+PIN 94 1 28 -90
+PROP 0 pinLabel 1
+GND_48
+ENDPROP
+PROP 0 pinNumber 1
+94
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -89.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -90 0 1.000 5 pinLabel
+ENDPIN
+PIN 95 1 28 -92
+PROP 0 pinLabel 1
+GND_49
+ENDPROP
+PROP 0 pinNumber 1
+95
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -91.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -92 0 1.000 5 pinLabel
+ENDPIN
+PIN 96 1 28 -94
+PROP 0 pinLabel 1
+GND_50
+ENDPROP
+PROP 0 pinNumber 1
+96
+ENDPROP
+VIEW 1 1 0 -1 -1 25.2 -93.6 0 1.000 0 pinNumber
+VIEW 2 1 0 -1 -1 23.4 -94 0 1.000 5 pinLabel
+ENDPIN
+ENDLIB

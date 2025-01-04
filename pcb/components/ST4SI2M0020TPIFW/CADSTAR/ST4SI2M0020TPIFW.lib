@@ -1,0 +1,16 @@
+.ST4SI2M0020TPIFW :1 ;ESIM GSMA SYS-ON-CHIP SOLUTION, VFDFPN
+SON127P600X500X100-9N
+*STM IC
+*NGS
+*PLB 1="GND" 2="SWIO" 3="I/O" 4="NC_1" 5="NC_2" 6="CLK" 7="'RESET'" 8="VCC" 9="EP"
+*MXP 9
+*DFN ST4SI2M0020TPIFW
+~!Mouser Part Number (511-ST4SI2M0020TPIFW)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST4SI2M0020TPIFW?qs=DRkmTr78QAT1FRyrW1ScNQ%3D%3D)
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (ST4SI2M0020TPIFW)
+~!Link Datasheet (-)
+~!Height (1mm)
+~!3D_Model (ST4SI2M0020TPIFW)
+ST4SI2M0020TPIFW
+1.1!U 2.1!U 3.1!U 4.1!U 9.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

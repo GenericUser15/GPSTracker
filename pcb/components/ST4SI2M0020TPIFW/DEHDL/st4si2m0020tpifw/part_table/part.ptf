@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ST4SI2M0020TPIFW'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "STMicroelectronics", "ST4SI2M0020TPIFW" (!) = "", "SON127P600X500X100-9N", "Small Outline No-lead", "511-ST4SI2M0020TPIFW", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/ST4SI2M0020TPIFW?qs=DRkmTr78QAT1FRyrW1ScNQ%3D%3D", "ESIM GSMA SYS-ON-CHIP SOLUTION, VFDFPN", "", "1 mm"
+END_PART
+
+END.

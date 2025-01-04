@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SARA-N310-00X"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-11-02-08:03:00)
+    (mountForm default
+        (footprintRef "SARAN31000X")
+        (spec "System")
+    )
+)

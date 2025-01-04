@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SARA-N310-00X
+D Cellular Modules NB-IoT multiband global module Cat NB1, Band 3, 5, 8, 20, 28 LGA, 16x26 mm, 250 pcs/reel
+K
+F https://content.u-blox.com/sites/default/files/SARA-N3_DataSheet_UBX-18066692.pdf
+$ENDCMP
+#
+#End Doc Library

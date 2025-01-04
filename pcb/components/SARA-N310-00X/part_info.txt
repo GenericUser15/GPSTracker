@@ -1,0 +1,9 @@
+Manufacturer=u-blox
+PartNumber=SARA-N310-00X
+PartCategory=Integrated Circuit
+PackageCategory=Other
+PinCount=96
+Version=1.2
+Released=2024-11-02 08:02:59
+Downloaded=2024-11-27 20:57:40
+3D=Y

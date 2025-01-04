@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=ST4SI2M0020TPIFW
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=1.3
+Released=2021-04-16 10:45:14
+Downloaded=2024-11-25 18:32:59
+3D=Y

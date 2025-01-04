@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SARAN31000X"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SARAN31000X")
+        (spec "default")
+    )
+)
